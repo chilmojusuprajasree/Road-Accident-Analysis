@@ -1,5 +1,7 @@
 # Road-Accident-Analysis
 To provide meaningful insights into 417,883 road accident casualties (2021–2022) to support decisions by public safety stakeholders.
+---
+
 🧾 Client Requirements Met
 •	✅ Total casualties (Primary KPI)
 •	✅ % breakdown by accident severity (fatal, serious, slight)
@@ -7,6 +9,7 @@ To provide meaningful insights into 417,883 road accident casualties (2021–202
 •	✅ Monthly trends: Current Year vs Previous Year
 •	✅ Maximum casualties by road type
 •	✅ Distribution by surface, location (urban/rural), and day/night
+---
 ________________________________________
 📊 Key Highlights
 •	Processed 417,883 records across 21 fields
