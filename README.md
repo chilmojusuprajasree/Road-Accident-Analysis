@@ -34,7 +34,7 @@ Finally, we leveraged Excel to create an interactive and visually informative da
 * Incorporating slicers and filters for user interaction, enabling dynamic exploration of data.
 * Ensuring real-time data updates through data connections, maintaining the dashboard's relevance.
 
-![image](road_accident.png)
+![image](road_accident_1.png)
 
 # Insights 🎯:
 
