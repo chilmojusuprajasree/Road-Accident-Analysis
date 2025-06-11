@@ -5,15 +5,8 @@
 
 📌 Project Name: Road Accident Analysis
 
-👥 Team Members: Amit Porwal(Self Created Project)
-
-🎓 Mentored by: Ajay Kumar Gupta
-
 🔧 skills required: Advance Excel, EDA, Dashboard, Power Query
 
-📅 Project start Date: 28/07/2023
-
-📅 Project end Date: 30/07/2023
 
 # Project Description 📝:
 
@@ -41,7 +34,7 @@ Finally, we leveraged Excel to create an interactive and visually informative da
 * Incorporating slicers and filters for user interaction, enabling dynamic exploration of data.
 * Ensuring real-time data updates through data connections, maintaining the dashboard's relevance.
 
-![image](https://github.com/amit9690/Road-Accident-Analysis---Excel-Dashboard/assets/129444885/ba14d7e3-b828-41d9-9164-7ca12f20de0c)
+![image](road_accident.png)
 
 # Insights 🎯:
 
@@ -84,8 +77,6 @@ Here are the insights from the UK road accident dashboard:
 * Ensuring a user-friendly and understandable dashboard layout.
 * Balancing aesthetics with clear labels and interactive features.
 
-
-##### If you have any queries regarding this project feel free to contact me over Linkedin 🌐 - https://bit.ly/3QLfBEz
 
 
 #### 🤝 __Thank You for visiting my project page.__
